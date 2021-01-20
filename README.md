@@ -53,3 +53,13 @@ For this task, I want you to **stop** the counter when I have counted to 10.
 Copy the output of the script here
 
 <!-- Write your answer here -->
+
+### 4) Quiz
+
+In this directory you'll find a quick quiz for you to complete
+
+```
+/MyDocuments/Quiz
+```
+
+You should open the quiz and answer it
