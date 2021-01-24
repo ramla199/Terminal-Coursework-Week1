@@ -5,7 +5,7 @@ do
   then
     echo I have counted to $i
   else 
-    echo You should have used ended the script by now! I have counted to $i! 
+    echo You should have used Ctrl+C to end the script by now! I have counted to $i! 
   fi
   sleep 0.2s
 done
