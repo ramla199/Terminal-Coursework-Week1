@@ -26,7 +26,7 @@ You can mark your choice by putting an `x` in the correct box
 **How do you stop a long running task in the terminal?**
 
 - [ ] The tab key
-- [ ] ctrl+c or cmd+c
+- [ ] ctrl+c
 - [ ] ctrl+shift or cmd+shift
 - [ ] The enter key
 - [ ] The escape key
@@ -35,7 +35,7 @@ You can mark your choice by putting an `x` in the correct box
 **How do you auto-complete a command that you are typing?**
 
 - [ ] The tab key
-- [ ] ctrl+c or cmd+c
+- [ ] ctrl+c
 - [ ] ctrl+shift or cmd+shift
 - [ ] The enter key
 - [ ] The escape key
