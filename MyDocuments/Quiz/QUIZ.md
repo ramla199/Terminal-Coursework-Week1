@@ -90,7 +90,6 @@ You can mark your choice by putting an `x` in the correct box
 
 - [ ] parameter
 - [ ] extra
-- [ ] argument
 - [ ] function
 - [ ] dash
 - [ ] all

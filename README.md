@@ -10,7 +10,7 @@ In this repository you'll find `MyDocuments` - this is all the documents that I 
 
 I need to find the `script.js` file that is a part of MyFirstWebsite however you are **not** allowed to use a GUI, you must use Command Line and the Terminal.
 
-What commands would I need to use to find this file? In the section below, write all the commands you used.
+What commands would I need to change directory to the directory containing `script.js`? In the section below, write all the commands you used.
 
 Hint: You should use `cd` and `ls`.
 
@@ -57,6 +57,8 @@ Copy the output of the script here
 ### 4) Quiz
 
 In this directory you'll find a quick quiz for you to complete
+
+Open the Quiz in Visual Studio Code and complete the answers.
 
 ```
 /MyDocuments/Quiz
