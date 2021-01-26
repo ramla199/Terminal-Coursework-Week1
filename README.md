@@ -58,10 +58,14 @@ Copy the output of the script here
 
 In this directory you'll find a quick quiz for you to complete
 
-Open the Quiz in Visual Studio Code and complete the answers.
-
 ```
 /MyDocuments/Quiz
 ```
 
-You should open the quiz and answer it
+You should open the quiz in Visual Studio Code and complete it. You can do this either by opening this project in VSCode or by running the command
+
+```sh
+code QUIZ.md
+```
+
+when you're in the correct directory.
