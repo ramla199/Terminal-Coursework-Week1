@@ -23,6 +23,7 @@ ls \*/
 cd MyDocument/Projects/MyFirstWebsite
 ls
 cd MyDocument/Projects/MyFirstWebsite/scripts
+code Scripts.js
 
 ### 2) Find my Hotel Photo
 
