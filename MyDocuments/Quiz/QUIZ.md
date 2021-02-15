@@ -37,7 +37,7 @@ You can mark your choice by putting an `x` in the correct box
 - [ x] The tab key
 - [ ] ctrl+c
 - [ ] ctrl+shift or cmd+shift
-- [ ] The enter key
+- [x] The enter key
 - [ ] The escape key
 - [ ] The delete key
 
